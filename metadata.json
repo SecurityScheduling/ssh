@@ -1,0 +1,14 @@
+{
+  "name": "securityscheduling-ssh",
+  "version": "0.1.0",
+  "author": "securityscheduling",
+  "summary": "simple ssh module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/SecurityScheduling/ssh.git",
+  "project_page": "https://github.com/SecurityScheduling/ssh",
+  "issues_url": "https://github.com/SecurityScheduling/ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
